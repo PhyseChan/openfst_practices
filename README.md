@@ -12,7 +12,7 @@ Example: converting `10011` to `ten thousands eleven`
 
 ## Simple_okenizer
 
-The `simple_tokenizer` only tokenizes a sentence with a fixed small token table and presents all possible paths.
+The `simple_tokenizer` only tokenizes a sentence with a hardcoded small token table and presents all possible paths.
 
 The graph of Tokenization fst:
 <img src="./simple_tokenizer/imgs/tokenization.png" width="50%">
