@@ -7,7 +7,7 @@ These are some practices of learning Openfst, which include converting digits to
 
 This module converts a number to alphabet
 
-Example convert `10011` to `ten thousands eleven`
+Example: converting `10011` to `ten thousands eleven`
 <img src="./digit2alphabet/imgs/res.png">
 
 ## Simple_okenizer
