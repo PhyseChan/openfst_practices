@@ -3,9 +3,9 @@ Some practices of learning Openfst
 
 These are some practices of learning Openfst, which include converting digits to alphabet and chinese tokenization.
 
-## Digits to AlphaBet
+## Digits to Alphabet
 
-This module converts a number to aplhabets
+This module converts a number to alphabet
 
 Example convert `10011` to `ten thousands eleven`
 <img src="./digit2alphabet/imgs/res.png">
