@@ -10,7 +10,7 @@ This module converts a number to alphabet
 Example: converting `10011` to `ten thousands eleven`
 <img src="./digit2alphabet/imgs/res.png">
 
-## Simple_okenizer
+## Simple_Tokenizer
 
 The `simple_tokenizer` only tokenizes a sentence with a hardcoded small token table and presents all possible paths.
 
