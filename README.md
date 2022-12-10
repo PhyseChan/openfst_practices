@@ -23,7 +23,7 @@ All paths:
 
 ## Tokenizer
 
-The `tokenizer` provides a functionality that is powerful than `simple_tokenizer`. The `tokenizer` can tokenizes senetens by any given token table and generates the N-best result which is sorted by probability by using greedy search.
+The `tokenizer` provides a functionality that is more powerful than `simple_tokenizer`. The `tokenizer` can tokenizes senetens by any given token table and generates the N-best result which is sorted by probability by using greedy search.
 
 ```console
 (base) lqb$ ./tokenization 南京市长江大桥真好看
